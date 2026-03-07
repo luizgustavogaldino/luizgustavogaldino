@@ -55,7 +55,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/luizgustavogaldino/luizgustavogaldino/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </div>
 
