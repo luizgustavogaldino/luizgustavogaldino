@@ -8,7 +8,7 @@
         <p>Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por criar soluções web eficientes e escaláveis. Atualmente, foco minhas energias no ecossistema JavaScript, construindo interfaces fluidas e backends robustos.</p>
         <p>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer profissionalmente.</p>
       </td>
-      <td width="30%" align="center">
+      <td width="30%" align="left">
         <img src="https://github.com/luizgustavogaldino.png" width="150px" style="border-radius: 50%" alt="Luiz Gustavo"/>
       </td>
     </tr>
@@ -20,7 +20,7 @@
 
 ### Minhas Ferramentas 🛠️
 
-<div align="center">
+<div align="left">
   <table border="0">
     <tr>
       <td align="center" width="300px">
@@ -41,7 +41,7 @@
 
 ### Entre em contato comigo!
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/luizggsilva_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
