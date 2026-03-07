@@ -21,7 +21,21 @@
 ### Minhas Ferramentas 🛠️
 
 <div align="center">
-  </div>
+  <table border="0">
+    <tr>
+      <td align="center" width="300px">
+        <img src="https://skillicons.dev/icons?i=js,ts,react&theme=dark" height="80px" alt="Frontend Skills"/><br>
+        <strong>Desenvolvimento Frontend</strong><br>
+        <small>Criando interfaces modernas e responsivas.</small>
+      </td>
+      <td align="center" width="300px">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark" height="80px" alt="Backend Skills"/><br>
+        <strong>Desenvolvimento Backend</strong><br>
+        <small>Construindo APIs robustas e seguras.</small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
